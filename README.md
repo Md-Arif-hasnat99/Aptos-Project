@@ -1,4 +1,4 @@
-"AptosLading: Blockchain-Based Digital Bill of Lading System" - a clear, memorable name that indicates both the platform (Aptos) and the purpose (digital bill of lading).
+AptosLading: Blockchain-Based Digital Bill of Lading System" - a clear, memorable name that indicates both the platform (Aptos) and the purpose (digital bill of lading).
 Project Description
 The description explains what a bill of lading is and why it's important in global trade. It outlines the key features of your blockchain implementation:
 
